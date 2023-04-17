@@ -24,7 +24,7 @@ I always seek new challenges and opportunities to learn and grow in my field.
 When I'm not diving into code or building infrastructure, I enjoy staying active with sports. For example, I enjoy boxing🥊, fitness🏋️‍♂️, and snowboarding🏂.Additionally, I love sharing my insights and experiences with others through my blog.
 
 If you want to learn more about my background and experience,\
-please check out [my CV](/cv.md) 👈
+please check out [my CV](/cv) 👈
 
 If you would like to contact me,  please mail me at [contact@techblog.pro](mailto:contact@techblog.pro).\
 Or you can connect with me here:
