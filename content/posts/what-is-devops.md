@@ -123,7 +123,7 @@ I leave you with references to the sources where I obtained information and drew
 - ***[Microsoft.com.What-is-DevOps](https://learn.microsoft.com/en-us/devops/what-is-devops)***
 
 
-**Thank you for reading, and I wish you success and good luck!** 🤩
+**Thank you for reading, and I wish you success and good luck!** 😌
 
 
 
