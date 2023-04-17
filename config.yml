@@ -1,0 +1,100 @@
+baseURL: "https://vvmarchenko.github.io/techblog/"
+languageCode: en-us
+title: TechBlog
+theme: PaperMod
+
+params:
+  homeInfoParams:
+    Title: 'Welcome to my blog!👋'
+    Content: "This blog focuses on all areas of DevOps, and whether you’re a seasoned DevOps professional or just starting, you’ll find a wealth of information here to help you improve your skills and stay up-to-date on the latest trends and best practices in the field.
+
+             \nSo come on in, grab a cup of coffee ☕, and let's dive into the world of DevOps together!😎"
+
+  socialIcons:
+    - name: linkedin
+      url: 'https://www.linkedin.com/in/vvmarchenko'
+    - name: github
+      url: 'https://github.com/vvmarchenko'
+    - name: "email"
+      url: "mailto:contact@techblog.pro"
+    - name: telegram
+      url: "https://t.me/vvmarchenko_3"
+
+  ShowReadingTime: true
+  ShowShareButtons: true
+  ShowPostNavLinks: true
+  showToc: true
+  TocOpen: false
+  ShowBreadCrumbs: true
+  ShowCodeCopyButtons: true
+  hideMeta: false
+  hideDescriptionInList: false
+  cover:
+    hiddenInList: false # hide on list pages and home
+    hiddenInSingle: false # hide on single page
+
+  fuseOpts:
+    isCaseSensitive: false
+    shouldSort: true
+    location: 0
+    distance: 1000
+    threshold: 0.4
+    minMatchCharLength: 0
+    keys: ["title", "permalink", "summary", "content"]
+
+  assets:
+        disableHLJS: true # to disable highlight.js
+        # disableFingerprinting: true
+        favicon: "img/mainlogo.jpeg"
+        apple_touch_icon: "img/mainlogo.jpeg"
+        safari_pinned_tab: "img/mainlogo.jpeg"
+
+  label: 
+    icon: img/icon.JPG
+    iconHeight: 35
+
+menu:
+  main:
+    - identifier: home
+      name: Home
+      url: /
+      weight: 10
+    - identifier: all posts
+      name: All posts
+      url: /all posts
+      weight: 20
+    - identifier: about
+      name: About author
+      url: /about
+      weight: 30
+    - identifier: search
+      name: Search
+      url: /search
+      weight: 40
+
+# for search using Fuse.js
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON
+
+# allow HTML in MD
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+  highlight:
+      anchorLineNos: false
+      codeFences: true
+      guessSyntax: false
+      hl_Lines: ""
+      hl_inline: false
+      lineAnchors: ""
+      lineNoStart: 1
+      lineNos: false
+      lineNumbersInTable: true
+      noClasses: true
+      noHl: false
+      style: monokai
+      tabWidth: 4

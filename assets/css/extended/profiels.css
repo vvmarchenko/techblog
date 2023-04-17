@@ -1,0 +1,25 @@
+.profiles ul {
+    padding: 0;
+    margin: 0;
+    display: flex;
+    flex-wrap: wrap;
+    list-style-type: none;
+}
+
+.profiles li {
+    margin: 0 10px 0 10px ;
+    padding: 0;
+}
+
+.profiles figure {
+    width: 80px;
+}
+
+.profiles figure img{
+    object-fit: cover;
+    margin: 0 auto 0 auto;
+    width: 60px;
+    -moz-box-shadow: none;
+    -webkit-box-shadow: none;
+    box-shadow: none;
+}
