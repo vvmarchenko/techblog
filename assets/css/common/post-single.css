@@ -2,7 +2,7 @@
 .post-header {
     margin: 24px auto var(--content-gap) auto;
     max-width: 800px;
-    width: 120%;
+    width: 100%;
     
 }
 
@@ -37,7 +37,7 @@
 
 .post-content {
     color: var(--content);
-    width: 120%;
+    width: 100%;
 }
 
 .post-content h3,
