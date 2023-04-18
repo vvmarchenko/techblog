@@ -35,7 +35,7 @@ jobs:
       - name: Deploy
         if: github.ref == 'refs/heads/main' && !contains(github.event_name, 'pull_request') && !contains(github.event.head_commit.modified, 'built-site') && !contains(github.event.head_commit.added, 'built-site')
         run: |
-          cp -R public/* ${GITHUB_WORKSPACE}/built-site/
+          cp -Rvf public/* ${GITHUB_WORKSPACE}/built-site/
           cd ${GITHUB_WORKSPACE}/built-site
           git add .
           git config user.name 'vmarchenko'
