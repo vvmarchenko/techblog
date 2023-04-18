@@ -33,7 +33,7 @@ jobs:
         run: ${RUNNER_TEMP}/hugo
 
       - name: Deploy
-        if: github.ref == 'refs/heads/main' && !contains(github.event_name, 'pull_request') && ${{ github.event.after }} != ${{ github.event.before }} && !contains(toJSON(github.event.commits.*.added), 'built-site')
+        if: github.ref == 'refs/heads/main' && !contains(github.event_name, 'pull_request') && !contains(toJSON(github.event.commits.*.added), 'built-site') && !contains(toJSON(github.event.commits.*.modified), 'built-site')
         run: |
           cp -R public/* ${GITHUB_WORKSPACE}/built-site/
           cd ${GITHUB_WORKSPACE}/built-site
