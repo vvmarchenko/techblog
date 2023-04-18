@@ -40,6 +40,20 @@ jobs:
           git config user.name 'vmarchenko'
           git config user.email 'contact@techblog.pro'
           git commit -m 'Updated site'
-          git push          
+          git push         
+
+  purge-cache:
+    needs: [deploy]
+    runs-on: ubuntu-latest
+    steps:
+      - name: Send API request to CloudFlare
+        run: |
+          set -ex
+          curl -s -X POST "https://api.cloudflare.com/client/v4/zones/${{ secrets.CLOUDFLAREZONEID }}/purge_cache" \
+                          -H "Authorization: Bearer ${{ secrets.CLOUDFLAREPURGETOKEN }}" \
+                          -H "Content-Type: application/json" \
+                          --data '{"purge_everything":true}' | jq '.success'
+          
+  
 
           
