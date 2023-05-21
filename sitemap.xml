@@ -2,28 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/posts/envsubst/</loc>
+    <loc>https://techblog.pro/posts/envsubst/</loc>
     <lastmod>2023-05-15T21:04:15+03:00</lastmod>
   </url><url>
-    <loc>/posts/</loc>
+    <loc>https://techblog.pro/posts/</loc>
     <lastmod>2023-05-15T21:04:15+03:00</lastmod>
   </url><url>
-    <loc>/</loc>
+    <loc>https://techblog.pro/</loc>
     <lastmod>2023-05-15T21:04:15+03:00</lastmod>
   </url><url>
-    <loc>/posts/what-is-devops/</loc>
+    <loc>https://techblog.pro/posts/what-is-devops/</loc>
     <lastmod>2023-03-25T13:25:17+02:00</lastmod>
   </url><url>
-    <loc>/categories/</loc>
+    <loc>https://techblog.pro/categories/</loc>
   </url><url>
-    <loc>/about/</loc>
+    <loc>https://techblog.pro/about/</loc>
   </url><url>
-    <loc>/search/</loc>
+    <loc>https://techblog.pro/search/</loc>
   </url><url>
-    <loc>/tags/</loc>
+    <loc>https://techblog.pro/tags/</loc>
   </url><url>
-    <loc>/all-posts/</loc>
+    <loc>https://techblog.pro/all-posts/</loc>
   </url><url>
-    <loc>/cv/</loc>
+    <loc>https://techblog.pro/cv/</loc>
   </url>
 </urlset>

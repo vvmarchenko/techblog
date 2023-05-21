@@ -2,35 +2,35 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>TechBlog</title>
-    <link>/</link>
+    <link>https://techblog.pro/</link>
     <description>Recent content on TechBlog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 15 May 2023 21:04:15 +0300</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 15 May 2023 21:04:15 +0300</lastBuildDate><atom:link href="https://techblog.pro/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>ENVSUBST: спрощення роботи зі змінними оточення в продакшн-середовищі</title>
-      <link>/posts/envsubst/</link>
+      <link>https://techblog.pro/posts/envsubst/</link>
       <pubDate>Mon, 15 May 2023 21:04:15 +0300</pubDate>
       
-      <guid>/posts/envsubst/</guid>
+      <guid>https://techblog.pro/posts/envsubst/</guid>
       <description>Команда Linux &amp;#39;envsubst&amp;#39;, приклади та використання у продакшн.</description>
     </item>
     
     <item>
       <title>What is DevOps?</title>
-      <link>/posts/what-is-devops/</link>
+      <link>https://techblog.pro/posts/what-is-devops/</link>
       <pubDate>Sat, 25 Mar 2023 13:25:17 +0200</pubDate>
       
-      <guid>/posts/what-is-devops/</guid>
+      <guid>https://techblog.pro/posts/what-is-devops/</guid>
       <description>What is DevOps and what&amp;#39;s it all about?</description>
     </item>
     
     <item>
       <title>Hello readers!👋</title>
-      <link>/about/</link>
+      <link>https://techblog.pro/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/about/</guid>
+      <guid>https://techblog.pro/about/</guid>
       <description>My name is Vladyslav Marchenko, and I’m an IT Engineer from Ukraine🇺🇦.
 My passion for technology and desire to learn more led me to explore the world of DevOps. I’m currently studying and practicing Amazon Web Services (AWS) technologies such as ECS, EC2, S3, ASG, ALB, CloudFront, VPC etc. I also have experience managing configurations using Ansible, handling infrastructure with Terraform, creating modules, containerizing with Docker, working with networks, web servers, and Linux, and designing project architectures.</description>
     </item>
@@ -39,10 +39,10 @@ My passion for technology and desire to learn more led me to explore the world o
     
     <item>
       <title>Vladyslav Marchenko</title>
-      <link>/cv/</link>
+      <link>https://techblog.pro/cv/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/cv/</guid>
+      <guid>https://techblog.pro/cv/</guid>
       <description>An IT Engineer with experience in technical support and IT administration, studying DevOps methodology, and in the future, I hope to become a master in this area.
 Professional Experience IT Engineer 🏢 Qollabe, 🗓 Since Aug 2021
 Basic responsibilities: Administer employee and company resource access; Manage payments for all company resources, services, accounts and domains; Administer the Jira server; Writing Python scripts to automate processes in Jira; Provide employee support and troubleshoot websites issues; Administer external hostings and manage DNS records for all company websites; Acquiring domain names and participating in auctions to purchase them; Setting up and configuring Google Analytics.</description>

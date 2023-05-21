@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Posts on TechBlog</title>
-    <link>/posts/</link>
+    <link>https://techblog.pro/posts/</link>
     <description>Recent content in Posts on TechBlog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 15 May 2023 21:04:15 +0300</lastBuildDate><atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 15 May 2023 21:04:15 +0300</lastBuildDate><atom:link href="https://techblog.pro/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>ENVSUBST: спрощення роботи зі змінними оточення в продакшн-середовищі</title>
-      <link>/posts/envsubst/</link>
+      <link>https://techblog.pro/posts/envsubst/</link>
       <pubDate>Mon, 15 May 2023 21:04:15 +0300</pubDate>
       
-      <guid>/posts/envsubst/</guid>
+      <guid>https://techblog.pro/posts/envsubst/</guid>
       <description>Команда Linux &amp;#39;envsubst&amp;#39;, приклади та використання у продакшн.</description>
     </item>
     
     <item>
       <title>What is DevOps?</title>
-      <link>/posts/what-is-devops/</link>
+      <link>https://techblog.pro/posts/what-is-devops/</link>
       <pubDate>Sat, 25 Mar 2023 13:25:17 +0200</pubDate>
       
-      <guid>/posts/what-is-devops/</guid>
+      <guid>https://techblog.pro/posts/what-is-devops/</guid>
       <description>What is DevOps and what&amp;#39;s it all about?</description>
     </item>
     
