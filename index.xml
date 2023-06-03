@@ -6,7 +6,16 @@
     <description>Recent content on TechBlog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 15 May 2023 21:04:15 +0300</lastBuildDate><atom:link href="https://techblog.pro/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 03 Jun 2023 16:57:21 +0300</lastBuildDate><atom:link href="https://techblog.pro/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Docker Secrets</title>
+      <link>https://techblog.pro/posts/docker_secrets/</link>
+      <pubDate>Sat, 03 Jun 2023 16:57:21 +0300</pubDate>
+      
+      <guid>https://techblog.pro/posts/docker_secrets/</guid>
+      <description>Safeguard Your Sensitive Data with Docker Secrets.</description>
+    </item>
+    
     <item>
       <title>ENVSUBST: спрощення роботи зі змінними оточення в продакшн-середовищі</title>
       <link>https://techblog.pro/posts/envsubst/</link>
