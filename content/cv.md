@@ -19,20 +19,18 @@ An IT Engineer with experience in technical support and IT administration, study
 ## Professional Experience
 {{< cv-job-title 
 logo="/imgcv/qollabe.png" 
-header="IT Engineer" 
+header="Senior Support Engineer" 
 link="https://qollabe.com/"
 company="Qollabe" 
 dates="Since Aug 2021" >}}
 
 ### Basic responsibilities:
-- Administer employee and company resource access;
-- Manage payments for all company resources, services, accounts and domains;
-- Administer the Jira server;
-- Writing Python scripts to automate processes in Jira;
-- Provide employee support and troubleshoot websites issues;
-- Administer external hostings and manage DNS records for all company websites;
-- Acquiring domain names and participating in auctions to purchase them;
-- Setting up and configuring Google Analytics.
+- Administration of employee and company resource access;
+- Administration of Jira server, creating automatization workflow;
+- Writing Bash / Python scripts to automate routine processes;
+- Administration of external hostings and managing DNS records for all company websites;
+- Providing employee support and troubleshoot websites issues;
+- Collaboration with the DevOps team to build and optimize processes in the company;
 
 And this is just a tiny part of what I have to deal with in this position, but every time I am thrilled to receive new challenges and participate in solving complex tasks.
 
@@ -45,12 +43,10 @@ company="IPnet"
 dates="Feb'21 - Aug'21" >}}
 
 ### Basic responsibilities:
-- Monitoring services and network status (D-Link, Tp-Link, ZyXEL, MikroTik, Cisco, Ubiquiti) and identifying issues with related departments;
-- Escalating solutions for mass and complex problems;
+- Monitoring services and network status, identifying issues with related departments;
 - Providing remote technical support, processing requests, and advising subscribers by phone and email;
-- Diagnosing malfunctions and assisting with subscriber equipment setup;
+- Diagnosing malfunctions and assisting with subscriber equipment setup (D-Link, Tp-Link, ZyXEL, MikroTik, TV-BOX);
 - Submitting requests for service connection, repair, and equipment configuration;
-- Collaborating with related technical departments;
 - Documenting actions.
 
 ### Challenges:
@@ -69,7 +65,7 @@ Operating systems
     - MacOS
 
 Clouds
-:   - AWS (ECS, EC2, S3, ASG, ALB, CloudFront, VPC etc.)
+:   - AWS
     - GCP
 
 Techs skills
