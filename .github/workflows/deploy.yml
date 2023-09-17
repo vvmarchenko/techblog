@@ -1,3 +1,5 @@
+# Author: Vladyslav Marchenko
+
 name: Publish to production
 on:
   push:
