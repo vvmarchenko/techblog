@@ -30,6 +30,7 @@ dates="Since Aug 2021" >}}
 - Writing Bash / Python scripts to automate routine processes;
 - Administration of external hostings and managing DNS records for all company websites;
 - Providing employee support and troubleshoot websites issues;
+- Setting up DNS zones in Cloudflare;
 - Collaboration with the DevOps team to build and optimize processes in the company;
 
 And this is just a tiny part of what I have to deal with in this position, but every time I am thrilled to receive new challenges and participate in solving complex tasks.
