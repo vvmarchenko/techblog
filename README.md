@@ -1,7 +1,7 @@
 [![Deploy Production](https://github.com/vvmarchenko/techblog/actions/workflows/deploy.yml/badge.svg)](https://github.com/vvmarchenko/techblog/actions/workflows/deploy.yml)
 # Personal blog powered by Hugo 
 
-This repository contains the source code for [techblog.pro](https://techblog.pro/), a static blog website built using [Hugo](https://gohugo.io/), a popular static website generator. The website uses the [PaperMod](https://github.com/adityatelange/hugo-PaperMod/) blog theme, which has been added to the repository as a Git submodule.
+This repository contains the source code for [techblog.pro](https://marchenko.blog/), a static blog website built using [Hugo](https://gohugo.io/), a popular static website generator. The website uses the [PaperMod](https://github.com/adityatelange/hugo-PaperMod/) blog theme, which has been added to the repository as a Git submodule.
 
 ## ⚙️Website Deployment:
 The website is deployed automatically using GitHub Actions, a continuous integration and deployment (CI/CD) tool provided by GitHub. The CI/CD pipeline is configured to run whenever changes are pushed to the `main` branch.
