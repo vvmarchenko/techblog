@@ -15,9 +15,10 @@ ByMeACoffee: false
 EmailSubscribeForm: false
 
 ---
-My name is **Vladyslav Marchenko**, and I’m an IT Engineer from Ukraine🇺🇦.
+My name is **Vladyslav Marchenko**, and I’m an DevOps Engineer from Ukraine🇺🇦.
 
-My passion for technology and desire to learn more led me to explore the world of DevOps. I’m currently studying and practicing Amazon Web Services (AWS) technologies such as ECS, EC2, S3, ASG, ALB, CloudFront, VPC etc. I also have experience managing configurations using Ansible, handling infrastructure with Terraform, creating modules, containerizing with Docker, working with networks, web servers, and Linux, and designing project architectures.
+My passion for technology and desire to learn more led me to explore the world of DevOps. I enjoy learning new things and making our work more efficient by automating tasks.
+My goal is to learn as many technologies as possible to improve the world and Ukrainian IT business.
 
 I always seek new challenges and opportunities to learn and grow in my field.
 
@@ -26,7 +27,7 @@ When I'm not diving into code or building infrastructure, I enjoy staying active
 If you want to learn more about my background and experience,\
 please check out [my CV](/cv) 👈
 
-If you would like to contact me,  please mail me at [contact@techblog.pro](mailto:contact@techblog.pro).\
+If you would like to contact me, please mail me at [marchenkovlad35@gmail.com](mailto:marchenkovlad35@gmail.com).\
 Or you can connect with me here:
 {{<social-profiles>}}
 
