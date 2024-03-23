@@ -1,4 +1,4 @@
-baseURL: "https://techblog.pro/"
+baseURL: "http://marchenko.blog/"
 languageCode: en-us
 title: TechBlog
 theme: PaperMod
@@ -16,7 +16,7 @@ params:
     - name: github
       url: 'https://github.com/vvmarchenko'
     - name: "email"
-      url: "mailto:contact@techblog.pro"
+      url: "mailto:marchenkovlad35@gmail.com"
     - name: telegram
       url: "https://t.me/vvmarchenko_3"
 
