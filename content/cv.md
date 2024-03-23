@@ -14,24 +14,39 @@ ByMeACoffee: false
 EmailSubscribeForm: false
 ---
 
-An IT Engineer with experience in technical support and IT administration, studying DevOps methodology, and in the future, I hope to become a master in this area.
+An IT Engineer, studying DevOps methodology, and in the future, I hope to become a master in this area.
 
 ## Professional Experience
 {{< cv-job-title 
+logo="/imgcv/rva.png" 
+header="DevOps Engineer" 
+link="https://rva.solutions/"
+company="RVA Fintech Solutions" 
+dates="Since Oct 2023" >}}
+
+### Basic responsibilities:
+- **Deployment Automation**: Developed and maintained CI/CD pipelines to automate the deployment processes.
+- **Project Migration to Kubernetes**: Participated the migration of projects to Kubernetes, this made our applications more scalable and efficient.
+- **Containerization of Monolithic Projects**: Contributed to the effort to dockerize monolithic application.
+- **Logging and Monitoring**: Worked on setting up logging and monitoring systems to quickly spot and fix issues, boost system performance, and keep services running smoothly and reliably.
+- **Startup Product Development**: Played a pivotal role in creating a startup product from the ground up; conceptualized and launched a Minimum Viable Product (MVP) for a VPN application.
+- **Infrastructure Administration and Optimization**: Administered and optimized infrastructure across VMware on Hetzner Cloud.
+
+
+
+{{< cv-job-title 
 logo="/imgcv/qollabe.png" 
-header="Senior Support Engineer" 
+header="Support Engineer" 
 link="https://qollabe.com/"
 company="Qollabe" 
 dates="Since Aug 2021" >}}
 
 ### Basic responsibilities:
-- Administration of employee and company resource access;
-- Administration of Jira server, creating automatization workflow;
-- Writing Bash / Python scripts to automate routine processes;
-- Administration of external hostings and managing DNS records for all company websites;
-- Providing employee support and troubleshoot websites issues;
-- Setting up DNS zones in Cloudflare;
-- Collaboration with the DevOps team to build and optimize processes in the company;
+- **Access Administration**: Managed access for employees and company resources, ensuring secure and efficient operation.
+- **Jira Server Administration**: Handled the Jira server, creating automation workflows that improved project management and team collaboration.
+- **External Hosting Management**: Oversaw external hostings and managed DNS records for all company websites, ensuring reliable access and optimal performance.
+- **Technical Support**: Provided timely support for employees, addressing and troubleshooting website issues to maintain high productivity levels.
+- **Collaboration with DevOps**: Worked closely with the DevOps team to enhance and optimize company processes, contributing to a more streamlined and efficient workflow.
 
 And this is just a tiny part of what I have to deal with in this position, but every time I am thrilled to receive new challenges and participate in solving complex tasks.
 
@@ -44,11 +59,10 @@ company="IPnet"
 dates="Feb'21 - Aug'21" >}}
 
 ### Basic responsibilities:
-- Monitoring services and network status, identifying issues with related departments;
-- Providing remote technical support, processing requests, and advising subscribers by phone and email;
-- Diagnosing malfunctions and assisting with subscriber equipment setup (D-Link, Tp-Link, ZyXEL, MikroTik, TV-BOX);
-- Submitting requests for service connection, repair, and equipment configuration;
-- Documenting actions.
+- **Service Monitoring**: Monitored network and service performance, identifying disruptions and anomalies. Collaborated with relevant technical teams to promptly address and resolve identified issues, ensuring optimal network reliability and service continuity.
+- **Remote Technical Support**: Gave help to customers over the phone and via email, answering their questions and solving their problems.
+- **Service Requests**: Handled requests for connecting services, fixing problems, and setting up equipment, making customers happy.
+- **NOC Internship**: Learned a lot about network operations by interning in the NOC department, gaining valuable experience and knowledge.
 
 ### Challenges:
 
@@ -66,12 +80,13 @@ Operating systems
     - MacOS
 
 Clouds
-:   - AWS
+:   - Hetzner Cloud  
+    - AWS
     - GCP
 
 Techs skills
-:   - Terraform, Ansible, Docker, Github Actions, Nginx,\
-    Networking, Virtualization, Vagrant.
+:   - Docker, Kubernetes, Ansible, Terraform, Jira,\
+    Gitlab CI, GitHub Actions.
 
 Programming languages
 :   - Python scripting
