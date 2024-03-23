@@ -2,53 +2,53 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>TechBlog</title>
-    <link>https://techblog.pro/</link>
+    <link>http://marchenko.blog/</link>
     <description>Recent content on TechBlog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 17 Sep 2023 19:38:33 +0300</lastBuildDate><atom:link href="https://techblog.pro/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 17 Sep 2023 19:38:33 +0300</lastBuildDate><atom:link href="http://marchenko.blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Linux Directory</title>
-      <link>https://techblog.pro/posts/linux_directory/</link>
+      <link>http://marchenko.blog/posts/linux_directory/</link>
       <pubDate>Sun, 17 Sep 2023 19:38:33 +0300</pubDate>
       
-      <guid>https://techblog.pro/posts/linux_directory/</guid>
+      <guid>http://marchenko.blog/posts/linux_directory/</guid>
       <description>Understanding the Linux Directory Structure.</description>
     </item>
     
     <item>
       <title>Docker Secrets</title>
-      <link>https://techblog.pro/posts/docker_secrets/</link>
+      <link>http://marchenko.blog/posts/docker_secrets/</link>
       <pubDate>Sat, 03 Jun 2023 16:57:21 +0300</pubDate>
       
-      <guid>https://techblog.pro/posts/docker_secrets/</guid>
+      <guid>http://marchenko.blog/posts/docker_secrets/</guid>
       <description>Safeguard Your Sensitive Data with Docker Secrets.</description>
     </item>
     
     <item>
       <title>ENVSUBST: спрощення роботи зі змінними оточення в продакшн-середовищі</title>
-      <link>https://techblog.pro/posts/envsubst/</link>
+      <link>http://marchenko.blog/posts/envsubst/</link>
       <pubDate>Mon, 15 May 2023 21:04:15 +0300</pubDate>
       
-      <guid>https://techblog.pro/posts/envsubst/</guid>
+      <guid>http://marchenko.blog/posts/envsubst/</guid>
       <description>Команда Linux &amp;#39;envsubst&amp;#39;, приклади та використання у продакшн.</description>
     </item>
     
     <item>
       <title>What is DevOps?</title>
-      <link>https://techblog.pro/posts/what-is-devops/</link>
+      <link>http://marchenko.blog/posts/what-is-devops/</link>
       <pubDate>Sat, 25 Mar 2023 13:25:17 +0200</pubDate>
       
-      <guid>https://techblog.pro/posts/what-is-devops/</guid>
+      <guid>http://marchenko.blog/posts/what-is-devops/</guid>
       <description>What is DevOps and what&amp;#39;s it all about?</description>
     </item>
     
     <item>
       <title>Hello readers!👋</title>
-      <link>https://techblog.pro/about/</link>
+      <link>http://marchenko.blog/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://techblog.pro/about/</guid>
+      <guid>http://marchenko.blog/about/</guid>
       <description>My name is Vladyslav Marchenko, and I’m an IT Engineer from Ukraine🇺🇦.
 My passion for technology and desire to learn more led me to explore the world of DevOps. I’m currently studying and practicing Amazon Web Services (AWS) technologies such as ECS, EC2, S3, ASG, ALB, CloudFront, VPC etc. I also have experience managing configurations using Ansible, handling infrastructure with Terraform, creating modules, containerizing with Docker, working with networks, web servers, and Linux, and designing project architectures.</description>
     </item>
@@ -57,10 +57,10 @@ My passion for technology and desire to learn more led me to explore the world o
     
     <item>
       <title>Vladyslav Marchenko</title>
-      <link>https://techblog.pro/cv/</link>
+      <link>http://marchenko.blog/cv/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://techblog.pro/cv/</guid>
+      <guid>http://marchenko.blog/cv/</guid>
       <description>An IT Engineer with experience in technical support and IT administration, studying DevOps methodology, and in the future, I hope to become a master in this area.
 Professional Experience Senior Support Engineer 🏢 Qollabe, 🗓 Since Aug 2021
 Basic responsibilities: Administration of employee and company resource access; Administration of Jira server, creating automatization workflow; Writing Bash / Python scripts to automate routine processes; Administration of external hostings and managing DNS records for all company websites; Providing employee support and troubleshoot websites issues; Setting up DNS zones in Cloudflare; Collaboration with the DevOps team to build and optimize processes in the company; And this is just a tiny part of what I have to deal with in this position, but every time I am thrilled to receive new challenges and participate in solving complex tasks.</description>
