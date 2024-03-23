@@ -62,9 +62,9 @@ I always seek new challenges and opportunities to learn and grow in my field.</d
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://marchenko.blog/cv/</guid>
-      <description>An IT Engineer with experience in technical support and IT administration, studying DevOps methodology, and in the future, I hope to become a master in this area.
-Professional Experience Senior Support Engineer 🏢 Qollabe, 🗓 Since Aug 2021
-Basic responsibilities: Administration of employee and company resource access; Administration of Jira server, creating automatization workflow; Writing Bash / Python scripts to automate routine processes; Administration of external hostings and managing DNS records for all company websites; Providing employee support and troubleshoot websites issues; Setting up DNS zones in Cloudflare; Collaboration with the DevOps team to build and optimize processes in the company; And this is just a tiny part of what I have to deal with in this position, but every time I am thrilled to receive new challenges and participate in solving complex tasks.</description>
+      <description>An IT Engineer, studying DevOps methodology, and in the future, I hope to become a master in this area.
+Professional Experience DevOps Engineer 🏢 RVA Fintech Solutions, 🗓 Since Oct 2023
+Basic responsibilities: Deployment Automation: Developed and maintained CI/CD pipelines to automate the deployment processes. Project Migration to Kubernetes: Participated the migration of projects to Kubernetes, this made our applications more scalable and efficient. Containerization of Monolithic Projects: Contributed to the effort to dockerize monolithic application.</description>
     </item>
     
   </channel>
