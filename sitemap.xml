@@ -2,34 +2,34 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://marchenko.blog/posts/linux_directory/</loc>
+    <loc>https://marchenko.blog/posts/linux_directory/</loc>
     <lastmod>2023-09-17T19:38:33+03:00</lastmod>
   </url><url>
-    <loc>http://marchenko.blog/posts/</loc>
+    <loc>https://marchenko.blog/posts/</loc>
     <lastmod>2023-09-17T19:38:33+03:00</lastmod>
   </url><url>
-    <loc>http://marchenko.blog/</loc>
+    <loc>https://marchenko.blog/</loc>
     <lastmod>2023-09-17T19:38:33+03:00</lastmod>
   </url><url>
-    <loc>http://marchenko.blog/posts/docker_secrets/</loc>
+    <loc>https://marchenko.blog/posts/docker_secrets/</loc>
     <lastmod>2023-06-03T16:57:21+03:00</lastmod>
   </url><url>
-    <loc>http://marchenko.blog/posts/envsubst/</loc>
+    <loc>https://marchenko.blog/posts/envsubst/</loc>
     <lastmod>2023-05-15T21:04:15+03:00</lastmod>
   </url><url>
-    <loc>http://marchenko.blog/posts/what-is-devops/</loc>
+    <loc>https://marchenko.blog/posts/what-is-devops/</loc>
     <lastmod>2023-03-25T13:25:17+02:00</lastmod>
   </url><url>
-    <loc>http://marchenko.blog/categories/</loc>
+    <loc>https://marchenko.blog/categories/</loc>
   </url><url>
-    <loc>http://marchenko.blog/about/</loc>
+    <loc>https://marchenko.blog/about/</loc>
   </url><url>
-    <loc>http://marchenko.blog/search/</loc>
+    <loc>https://marchenko.blog/search/</loc>
   </url><url>
-    <loc>http://marchenko.blog/tags/</loc>
+    <loc>https://marchenko.blog/tags/</loc>
   </url><url>
-    <loc>http://marchenko.blog/all-posts/</loc>
+    <loc>https://marchenko.blog/all-posts/</loc>
   </url><url>
-    <loc>http://marchenko.blog/cv/</loc>
+    <loc>https://marchenko.blog/cv/</loc>
   </url>
 </urlset>

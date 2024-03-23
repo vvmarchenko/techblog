@@ -2,44 +2,44 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Posts on TechBlog</title>
-    <link>http://marchenko.blog/posts/</link>
+    <link>https://marchenko.blog/posts/</link>
     <description>Recent content in Posts on TechBlog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 17 Sep 2023 19:38:33 +0300</lastBuildDate><atom:link href="http://marchenko.blog/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 17 Sep 2023 19:38:33 +0300</lastBuildDate><atom:link href="https://marchenko.blog/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Linux Directory</title>
-      <link>http://marchenko.blog/posts/linux_directory/</link>
+      <link>https://marchenko.blog/posts/linux_directory/</link>
       <pubDate>Sun, 17 Sep 2023 19:38:33 +0300</pubDate>
       
-      <guid>http://marchenko.blog/posts/linux_directory/</guid>
+      <guid>https://marchenko.blog/posts/linux_directory/</guid>
       <description>Understanding the Linux Directory Structure.</description>
     </item>
     
     <item>
       <title>Docker Secrets</title>
-      <link>http://marchenko.blog/posts/docker_secrets/</link>
+      <link>https://marchenko.blog/posts/docker_secrets/</link>
       <pubDate>Sat, 03 Jun 2023 16:57:21 +0300</pubDate>
       
-      <guid>http://marchenko.blog/posts/docker_secrets/</guid>
+      <guid>https://marchenko.blog/posts/docker_secrets/</guid>
       <description>Safeguard Your Sensitive Data with Docker Secrets.</description>
     </item>
     
     <item>
       <title>ENVSUBST: спрощення роботи зі змінними оточення в продакшн-середовищі</title>
-      <link>http://marchenko.blog/posts/envsubst/</link>
+      <link>https://marchenko.blog/posts/envsubst/</link>
       <pubDate>Mon, 15 May 2023 21:04:15 +0300</pubDate>
       
-      <guid>http://marchenko.blog/posts/envsubst/</guid>
+      <guid>https://marchenko.blog/posts/envsubst/</guid>
       <description>Команда Linux &amp;#39;envsubst&amp;#39;, приклади та використання у продакшн.</description>
     </item>
     
     <item>
       <title>What is DevOps?</title>
-      <link>http://marchenko.blog/posts/what-is-devops/</link>
+      <link>https://marchenko.blog/posts/what-is-devops/</link>
       <pubDate>Sat, 25 Mar 2023 13:25:17 +0200</pubDate>
       
-      <guid>http://marchenko.blog/posts/what-is-devops/</guid>
+      <guid>https://marchenko.blog/posts/what-is-devops/</guid>
       <description>What is DevOps and what&amp;#39;s it all about?</description>
     </item>
     
